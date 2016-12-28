@@ -1,0 +1,16 @@
+{
+  "name": "2016-12-19_FizzBuzz",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "test": "karma start karma.conf.js"
+  },
+  "author": "gdgbrno@gug.cz",
+  "devDependencies": {
+    "jasmine-core": "^2.5.2",
+    "karma": "^0.13.22",
+    "karma-jasmine": "^1.0.2",
+    "karma-phantomjs-launcher": "^1.0.2",
+    "phantomjs-prebuilt": "^2.1.13"
+  }
+}
